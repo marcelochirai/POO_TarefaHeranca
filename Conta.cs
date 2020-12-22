@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using POO_TarefaHeranca.Entities;
 
 namespace POO_TarefaHeranca.Entities
 {
@@ -15,7 +16,9 @@ namespace POO_TarefaHeranca.Entities
         public Conta() { }
         public Conta(int numero, string titular, double saldo)
         {
-            Numero = numero; Titular = titular; Saldo = saldo;
+            Numero = numero; 
+            Titular = titular; 
+            Saldo = saldo;
         }
         //Método de Saque
         public void Saque(double saldoTotal)

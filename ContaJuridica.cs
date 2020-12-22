@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using POO_TarefaHeranca.Entities;
 
 namespace POO_TarefaHeranca.Entities
 {

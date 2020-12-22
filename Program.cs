@@ -1,4 +1,5 @@
 ﻿using System;
+using POO_TarefaHeranca.Entities;
 
 namespace POO_TarefaHeranca.Entities
 {
